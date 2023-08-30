@@ -20,7 +20,7 @@ npm run dev
 - Va aparecer un texto igual a este:
 VITE v4.4.2  ready in 965 ms
 
-➜  Local:   http://localhost:5173/
+➜  Local:   ```http://localhost:5173/```
 ➜  Network: use --host to expose
 ➜  press h to show help
 
